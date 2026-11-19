@@ -29,11 +29,19 @@ A dense newspaper front page, 1024x1024, under 1 MiB:
 
 `main.py` (Python 3.13, standard library only, no network) copies the
 bundled `entry.png` to `/output/entry.png`. It is deterministic: two runs
-write identical bytes.
+write identical bytes. It raises `FileNotFoundError` if `entry.png` is missing.
 
 ```bash
 python3 main.py
 ```
+
+## Build notes
+
+The front page was built for this bounty in one agent session:
+research the 19 November 2026 news, generate the 1024x1024 image,
+write `main.py`, self-test it twice, then publish this repository.
+The program was revised after the first submission checks: a missing
+image now raises `FileNotFoundError`, and the copy is asserted present.
 
 ## Sources
 
