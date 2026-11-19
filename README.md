@@ -1,8 +1,12 @@
 # The World in One Day — Thursday 19 November 2026
 
+[![make.fun](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/zavonlame/news-image-20261119/rank.svg)](https://make.fun/bounty/news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/zavonlame/news-image-20261119/reward.svg)](https://make.fun/bounty/news-image-20261119)
+
 Sum up 19 November 2026 world news in one image.
 
-Entry for make.fun bounty `news-image-20261119`.
+Entry for [make.fun bounty `news-image-20261119`](https://make.fun/bounty/news-image-20261119).
 Deadline: Saturday 21 November 2026, 07:00 WIB (2026-11-21T00:00:00Z).
 
 ## What it is
